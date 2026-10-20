@@ -1,6 +1,6 @@
 # Hi, I'm Long Nguyen
 
-**Senior Full-Stack Engineer** based in Ho Chi Minh City, Vietnam (UTC+7).
+**Software Engineer** based in Ho Chi Minh City, Vietnam (UTC+7).
 
 7 years of full-stack experience building production web platforms end to end.
 
